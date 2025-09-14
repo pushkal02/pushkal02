@@ -1,8 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/109648454?v=4" width="120" alt="Pushkal Pandey - GitHub Avatar"/>
-</p>
-
 <h1 align="center">Hi there, I'm Pushkal Pandey 👋</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
